@@ -1,6 +1,6 @@
 # BCO004
 config files
 
-\n Hello my name is Burak Ozhan
-\n I am a junior for SDSU 
-\n I wanna be a software engineer
+Hello my name is Burak Ozhan
+I am a junior for SDSU 
+I wanna be a software engineer
